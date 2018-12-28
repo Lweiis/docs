@@ -15,7 +15,7 @@ msgstr ""
 # 92ca4fbbd97f4927921343d3bcf84c59
 #: ../source/introduction.txt:3
 msgid "Introduction to MongoDB"
-msgstr "MongoDB简介"
+msgstr "MongoDB 简介"
 
 # d47a5f1a0481435e9f0b2e5bd9bdb21d
 #: ../source/introduction.txt
@@ -28,6 +28,7 @@ msgid ""
 "MongoDB is an open-source document database that provides high "
 "performance, high availability, and automatic scaling."
 msgstr ""
+"MongoDB 是一个开源文档数据库，提供高性能，高可用性和自动扩展。"
 
 # 4e14af6a94c8437b8557e3a7bd59d903
 #: ../source/introduction.txt:17
@@ -42,7 +43,7 @@ msgid ""
 " values of fields may include other documents, arrays, and arrays of "
 "documents."
 msgstr ""
-"MongoDB中的一条记录就是一个文档，是一个数据结构，由字段和值对组成。MongoDB文"
+"MongoDB 中的一条记录就是一个文档，是一个数据结构，由字段和值对组成。MongoDB 文"
 "档与JSON对象类似。字段的值有可能包括其它文档、数组以及文档数组。"
 
 # 63aa9d1f56be49f5a495306c28fecbc3
@@ -56,11 +57,12 @@ msgid ""
 "Documents (i.e. objects) correspond to native data types in many "
 "programming languages."
 msgstr ""
+"文档（即对象）对应于许多编程语言中的原始数据类型。"
 
 # 4e5c2d4da2f84c4c9e056e67a0690cd5
 #: ../source/introduction.txt:31
 msgid "Embedded documents and arrays reduce need for expensive joins."
-msgstr "嵌入文档及数组减少了昂贵的joins操作的需求。"
+msgstr "嵌入文档及数组减少了昂贵的 joins 操作的需求。"
 
 # fb139740c0624644b7e0fc1d80901b20
 #: ../source/introduction.txt:33
@@ -80,12 +82,12 @@ msgstr "高性能"
 # 076f718d620f4723805064493a3cab1a
 #: ../source/introduction.txt:41
 msgid "MongoDB provides high performance data persistence. In particular,"
-msgstr "MongoDB提供高性能的数据持久化。特别是，"
+msgstr "MongoDB提供高性能的数据持久化。特别是:"
 
 # 62957ada8e434845bc467cccea49d980
 #: ../source/introduction.txt:43
 msgid "Support for embedded data models reduces I/O activity on database system."
-msgstr ""
+msgstr "对嵌入式数据模型的支持减少了数据库系统的 I/O 活动。"
 
 # 9766669854904a97b82d8541b8c727f6
 #: ../source/introduction.txt:46
@@ -93,6 +95,7 @@ msgid ""
 "Indexes support faster queries and can include keys from embedded "
 "documents and arrays."
 msgstr ""
+"索引支持更快的查询，并且可以包含来自嵌入式文档和数组的键。"
 
 # 065a6182be9541778aa637062c84e3a8
 #: ../source/introduction.txt:50
@@ -165,6 +168,7 @@ msgid ""
 "MongoDB provides horizontal scalability as part of its *core* "
 "functionality:"
 msgstr ""
+"MongoDB提供水平可伸缩性作为其*核心*功能的一部分:"
 
 # 13210082014e43549ea0b72c244810bc
 #: ../source/introduction.txt:80
@@ -211,6 +215,7 @@ msgid ""
 "In addition, MongoDB provides pluggable storage engine API that allows "
 "third parties to develop storage engines for MongoDB."
 msgstr ""
+"此外，MongoDB 提供可插拔存储引擎 API，允许第三方为 MongoDB 开发存储引擎。"
 
 #~ msgid ""
 #~ "MongoDB supports a rich query language"
